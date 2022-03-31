@@ -29,6 +29,8 @@ function sayHiToHeadphonedRoommate(string){
         return("I would love to!")
     }
 }
-sayHiToHeadphonedRoommate("HELLO")
-sayHiToHeadphonedRoommate("hello")
-sayHiToHeadphonedRoommate(`Let\'s have dinner together!`)
+sayHiToHeadphonedRoommate("HELLO");
+sayHiToHeadphonedRoommate("hello");
+sayHiToHeadphonedRoommate(`Let\'s have dinner together!`);
+
+
